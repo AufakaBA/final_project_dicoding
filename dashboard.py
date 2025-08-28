@@ -238,4 +238,5 @@ if not df.empty:
         st.info("Nah data masuk sih, tapi mana kolom yang mau dipakenya")
 
 else:
-    st.warning("data ga masuk we")
+
+    st.warning("maaf ni datanya kegedean jadinya, ga bisa.")
